@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://chaimat.github.io/csb-wjtw9/static/css/main.54d3d500.chunk.css",
+    "main.js": "https://chaimat.github.io/csb-wjtw9/static/js/main.41cabd46.chunk.js",
+    "main.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/main.41cabd46.chunk.js.map",
+    "runtime-main.js": "https://chaimat.github.io/csb-wjtw9/static/js/runtime-main.42a8942f.js",
+    "runtime-main.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/runtime-main.42a8942f.js.map",
+    "static/css/2.ed48e7f3.chunk.css": "https://chaimat.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.2864e75b.chunk.js": "https://chaimat.github.io/csb-wjtw9/static/js/2.2864e75b.chunk.js",
+    "static/js/2.2864e75b.chunk.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/2.2864e75b.chunk.js.map",
+    "index.html": "https://chaimat.github.io/csb-wjtw9/index.html",
+    "static/css/2.ed48e7f3.chunk.css.map": "https://chaimat.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css.map",
+    "static/css/main.54d3d500.chunk.css.map": "https://chaimat.github.io/csb-wjtw9/static/css/main.54d3d500.chunk.css.map",
+    "static/js/2.2864e75b.chunk.js.LICENSE.txt": "https://chaimat.github.io/csb-wjtw9/static/js/2.2864e75b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42a8942f.js",
+    "static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.2864e75b.chunk.js",
+    "static/css/main.54d3d500.chunk.css",
+    "static/js/main.41cabd46.chunk.js"
+  ]
+}
