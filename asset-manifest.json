@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://chaimat.github.io/csb-wjtw9/static/css/main.614505ca.chunk.css",
-    "main.js": "https://chaimat.github.io/csb-wjtw9/static/js/main.04e75ed6.chunk.js",
-    "main.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/main.04e75ed6.chunk.js.map",
-    "runtime-main.js": "https://chaimat.github.io/csb-wjtw9/static/js/runtime-main.42a8942f.js",
-    "runtime-main.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/runtime-main.42a8942f.js.map",
-    "static/css/2.ed48e7f3.chunk.css": "https://chaimat.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css",
-    "static/js/2.5958a73f.chunk.js": "https://chaimat.github.io/csb-wjtw9/static/js/2.5958a73f.chunk.js",
-    "static/js/2.5958a73f.chunk.js.map": "https://chaimat.github.io/csb-wjtw9/static/js/2.5958a73f.chunk.js.map",
-    "index.html": "https://chaimat.github.io/csb-wjtw9/index.html",
-    "static/css/2.ed48e7f3.chunk.css.map": "https://chaimat.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css.map",
-    "static/css/main.614505ca.chunk.css.map": "https://chaimat.github.io/csb-wjtw9/static/css/main.614505ca.chunk.css.map",
-    "static/js/2.5958a73f.chunk.js.LICENSE.txt": "https://chaimat.github.io/csb-wjtw9/static/js/2.5958a73f.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-wjtw9/static/css/main.614505ca.chunk.css",
+    "main.js": "https://.github.io/csb-wjtw9/static/js/main.ec0f34c0.chunk.js",
+    "main.js.map": "https://.github.io/csb-wjtw9/static/js/main.ec0f34c0.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-wjtw9/static/js/runtime-main.b9b8eba9.js",
+    "runtime-main.js.map": "https://.github.io/csb-wjtw9/static/js/runtime-main.b9b8eba9.js.map",
+    "static/css/2.ed48e7f3.chunk.css": "https://.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css",
+    "static/js/2.b1503ed4.chunk.js": "https://.github.io/csb-wjtw9/static/js/2.b1503ed4.chunk.js",
+    "static/js/2.b1503ed4.chunk.js.map": "https://.github.io/csb-wjtw9/static/js/2.b1503ed4.chunk.js.map",
+    "index.html": "https://.github.io/csb-wjtw9/index.html",
+    "static/css/2.ed48e7f3.chunk.css.map": "https://.github.io/csb-wjtw9/static/css/2.ed48e7f3.chunk.css.map",
+    "static/css/main.614505ca.chunk.css.map": "https://.github.io/csb-wjtw9/static/css/main.614505ca.chunk.css.map",
+    "static/js/2.b1503ed4.chunk.js.LICENSE.txt": "https://.github.io/csb-wjtw9/static/js/2.b1503ed4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42a8942f.js",
+    "static/js/runtime-main.b9b8eba9.js",
     "static/css/2.ed48e7f3.chunk.css",
-    "static/js/2.5958a73f.chunk.js",
+    "static/js/2.b1503ed4.chunk.js",
     "static/css/main.614505ca.chunk.css",
-    "static/js/main.04e75ed6.chunk.js"
+    "static/js/main.ec0f34c0.chunk.js"
   ]
 }
